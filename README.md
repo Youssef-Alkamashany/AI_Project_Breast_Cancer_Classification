@@ -55,4 +55,4 @@ This project focuses on leveraging Artificial Intelligence to classify breast ca
 
 ---
 
-<p align="center">"Empowering Healthcare Diagnostics with Precision AI & Data Intelligence." </p>
+<p align="center">"Empowering Healthcare Diagnostics with Precision AI & Data Intelligence." 🧬💡 </p>
