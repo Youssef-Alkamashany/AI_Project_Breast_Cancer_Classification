@@ -50,7 +50,7 @@ This project focuses on leveraging Artificial Intelligence to classify breast ca
 
 ---
 
-### 📂 Repository Structure
+## 📂 Repository Structure
 
 * 📁 **Presentation/** — Project slides and technical documentation
 * 📄 **bc_split.npz** — Preprocessed NumPy binary splits (Train/Test)
