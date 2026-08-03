@@ -12,12 +12,12 @@
 
 ---
 
-### 🌟 Project Overview
+## 🌟 Project Overview
 This project focuses on leveraging Artificial Intelligence to classify breast cancer cases into **Malignant** or **Benign** based on diagnostic clinical datasets. It provides a comprehensive comparative evaluation across standard Machine Learning classifiers and modern Deep Neural Networks implemented via **TensorFlow**.
 
 ---
 
-### 🛠 Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 
 * **Core Languages:** Python (3.x), MATLAB (`.m`)
 * **Deep Learning Framework:** TensorFlow / Keras
@@ -25,7 +25,7 @@ This project focuses on leveraging Artificial Intelligence to classify breast ca
 
 ---
 
-### 🚀 Key Technical Features
+## 🚀 Key Technical Features
 * **📊 Multi-Framework Approach:** Features pipeline implementations in both Python (Scikit-Learn/TensorFlow) and MATLAB (`.m`) for mathematical verification.
 * **🧠 Deep Learning Neural Network:** Custom-built Sequential Neural Network model in TensorFlow (`tensorflow_model_bc.py`) tailored for tabular medical data.
 * **⚡ Preprocessed Data Splits:** Pre-partitioned train/test data stored efficiently in NumPy archive format (`bc_split.npz`) for reproducible benchmarking.
@@ -61,7 +61,7 @@ This project focuses on leveraging Artificial Intelligence to classify breast ca
 
 ---
 
-### 👤 Author & Contact
+## 👤 Author & Contact
 
 **Youssef Alkamashany**
 
