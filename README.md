@@ -47,6 +47,7 @@ This project focuses on leveraging Artificial Intelligence to classify breast ca
   <img src="assets/tf_training_history.png" width="48%" />
   <img src="assets/tf_confusion_matrix.png" width="48%" />
 </p>
+
 ---
 
 ### 📂 Repository Structure
