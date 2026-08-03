@@ -38,8 +38,8 @@ This project focuses on leveraging Artificial Intelligence to classify breast ca
 | Model | Framework | Test Accuracy | Macro F1-Score | Key Takeaway |
 | :--- | :--- | :---: | :---: | :--- |
 | **Support Vector Classifier (SVC)** | Scikit-Learn | **98.25%** | **0.98** | Highest overall accuracy; best margin separation. |
-| **Decision Tree Classifier** | Scikit-Learn | **93.86%** | **0.93** | High interpretability for clinical diagnosis[cite: 1]. |
-| **Sequential Neural Network** | TensorFlow/Keras | *Pending* | *Pending* | Evaluated with Dropout to prevent overfitting[cite: 1]. |
+| **Decision Tree Classifier** | Scikit-Learn | **93.86%** | **0.93** | High interpretability for clinical diagnosis. |
+| **Sequential Neural Network** | TensorFlow/Keras | *Pending* | *Pending* | Evaluated with Dropout to prevent overfitting. |
 
 ---
 
