@@ -41,6 +41,11 @@ This project focuses on leveraging Artificial Intelligence to classify breast ca
 | **Sequential Neural Network** | TensorFlow/Keras | **96.49%** | **0.96** | Strong performance with Dropout regularization to prevent overfitting. |
 | **Decision Tree Classifier** | Scikit-Learn | **93.86%** | **0.93** | High interpretability, providing clear rule-based paths for clinical diagnosis. |
 
+### 📈 Model Evaluation Plots
+<p align="center">
+  <img src="assets/tf_training_history.png" width="48%" />
+  <img src="assets/tf_confusion_matrix.png" width="48%" />
+</p>
 ---
 
 ### 📂 Repository Structure
