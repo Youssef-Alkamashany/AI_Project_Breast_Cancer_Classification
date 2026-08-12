@@ -65,7 +65,7 @@ This project focuses on leveraging Artificial Intelligence to classify breast ca
 
 **Youssef Alkamashany**
 
-* 🚀 **Aspiring MLOps/LLMOps & AI Data Engineer.**
+* 🚀 **Advancing toward MLOps/LLMOps & AI Data Engineer.**
 * 💼 **Team Leader — Microsoft Data Engineering | Digital Egypt Pioneers Initiative (DEPI).**
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-alkamashany-18261132b) [![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Youssef-Alkamashany)
