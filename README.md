@@ -8,6 +8,10 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Domain](https://img.shields.io/badge/Domain-Healthcare_AI-red?style=for-the-badge)
 
+<br/><br/>
+
+<img src="Datasets%20Project.png" alt="Dataset Preview & Project Architecture" width="85%" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);" />
+
 </div>
 
 ---
@@ -53,6 +57,7 @@ This project focuses on leveraging Artificial Intelligence to classify breast ca
 ## 📂 Repository Structure
 
 * 📁 **Presentation/** — Project slides and technical documentation
+* 📄 **Datasets Project.png** — Dataset overview and feature correlation preview
 * 📄 **bc_split.npz** — Preprocessed NumPy binary splits (Train/Test)
 * 📄 **breast_cancer_classification.m** — MATLAB numerical classification script
 * 📄 **breast_cancer_dataset.csv** — Raw/Processed healthcare dataset
@@ -71,6 +76,5 @@ This project focuses on leveraging Artificial Intelligence to classify breast ca
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-alkamashany-18261132b) [![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Youssef-Alkamashany)
 
 ---
-
 
 <p align="center">"Empowering Healthcare Diagnostics with Precision AI & Data Intelligence." 🧬💡 </p>
