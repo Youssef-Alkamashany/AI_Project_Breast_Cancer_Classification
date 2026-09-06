@@ -8,10 +8,6 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Domain](https://img.shields.io/badge/Domain-Healthcare_AI-red?style=for-the-badge)
 
-<br/><br/>
-
-<img src="Datasets%20Project.png" alt="Dataset Preview & Project Architecture" width="85%" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);" />
-
 </div>
 
 ---
@@ -37,6 +33,26 @@ This project focuses on leveraging Artificial Intelligence to classify breast ca
 
 ---
 
+## 📑 Dataset Exploration & Feature Analysis
+
+> *A robust predictive model begins with clinical data integrity. Visualizing feature distributions and diagnostic correlations ensures high diagnostic reliability.*
+
+<div align="center">
+
+| 🔬 Diagnostic Target | 📐 Feature Dimensionality | ⚖️ Class Balance |
+| :---: | :---: | :---: |
+| **Malignant vs. Benign** | Fine-needle aspirate (FNA) metrics | Preserved via Stratified Splits |
+
+<br/>
+
+<img src="Datasets%20Project.png" alt="Breast Cancer Clinical Dataset & Feature Distribution" width="90%" style="border-radius: 10px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.12);" />
+
+*Figure 1: Comprehensive overview of dataset features, correlation matrices, and attribute distributions used for model training.*
+
+</div>
+
+---
+
 ## 📊 Model Performance & Results Comparison
 
 | Model | Framework | Test Accuracy | Macro F1-Score | Key Takeaway |
@@ -57,7 +73,7 @@ This project focuses on leveraging Artificial Intelligence to classify breast ca
 ## 📂 Repository Structure
 
 * 📁 **Presentation/** — Project slides and technical documentation
-* 📄 **Datasets Project.png** — Dataset overview and feature correlation preview
+* 📄 **Datasets Project.png** — Visual summary of clinical features & dataset distribution
 * 📄 **bc_split.npz** — Preprocessed NumPy binary splits (Train/Test)
 * 📄 **breast_cancer_classification.m** — MATLAB numerical classification script
 * 📄 **breast_cancer_dataset.csv** — Raw/Processed healthcare dataset
